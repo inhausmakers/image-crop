@@ -7,13 +7,8 @@ Web applications need to provide easy-to-use solutions for uploading and
 manipulating rich content. This process can create difficulties for some users
 who have minimal photo editing skills. Cropping is one of the most used photo
 manipulation techniques, and this step-by-step tutorial will cover the entire
-development process of an image cropping plug-in for the jQuery JavaScript
+development process of an image cropping plugin for the jQuery JavaScript
 library.
-
-To get started, check out Image Crop on Nettuts+:
-
-+ [How to Create a jQuery Image Cropping Plugin from Scratch – Part I](http://net.tutsplus.com/tutorials/javascript-ajax/how-to-create-a-jquery-image-cropping-plugin-from-scratch-part-i/)
-+ [How to Create a jQuery Image Cropping Plugin from Scratch – Part II](http://net.tutsplus.com/tutorials/javascript-ajax/how-to-create-a-jquery-image-cropping-plug-in-from-scratch-part-ii/)
 
 
 
@@ -22,6 +17,18 @@ Get Started
 
 Clone the repo, `git clone git://github.com/cdog/image-crop.git`, or [download
 the latest release](https://github.com/cdog/image-crop/zipball/master).
+
+
+
+How It's Made
+-------------
+
+Find out how Image Crop was built.
+
+**Nettuts+**
+
++ [How to Create a jQuery Image Cropping Plugin from Scratch – Part I](http://net.tutsplus.com/tutorials/javascript-ajax/how-to-create-a-jquery-image-cropping-plugin-from-scratch-part-i/)
++ [How to Create a jQuery Image Cropping Plugin from Scratch – Part II](http://net.tutsplus.com/tutorials/javascript-ajax/how-to-create-a-jquery-image-cropping-plug-in-from-scratch-part-ii/)
 
 
 

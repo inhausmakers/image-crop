@@ -23,7 +23,7 @@ the latest release](https://github.com/cdog/image-crop/zipball/master).
 How It's Made
 -------------
 
-Find out how Image Crop was built.
+Check out the following resources to find out how Image Crop is built.
 
 **Nettuts+**
 

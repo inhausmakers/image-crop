@@ -18,8 +18,51 @@ h1 {
 	margin : 0 0 10px 0;
 }
 
+h2 {
+	font-size : 20px;
+	font-weight : normal;
+	margin : 0 0 10px 0;
+}
+
+a {
+	color : #729fcf;
+	text-decoration : none;
+}
+
+a:hover {
+	text-decoration : underline;
+}
+
+a#back {
+	-moz-border-radius : 5px 5px 5px 5px;
+	-webkit-border-radius : 5px 5px 5px 5px;
+	background-color : #808080;
+	border-radius : 5px 5px 5px 5px;
+	color : #ffffff;
+	padding : 5px 5px 5px 5px;
+	text-decoration : none;
+	text-shadow : 0 -1px 0 #404040;
+}
+
+a#back:hover {
+	background-color : #ef2929;
+}
+
+a#download {
+	color : #4e9a06;
+}
+
+p#author {
+	color : #323232;
+}
+
+p#author a {
+	color : #75507b;
+}
+
 div#wrapper {
-	margin : 25px 25px 25px 25px;
+	margin : 25px auto 25px auto;
+	width : 960px;
 }
 
 div.image-decorator {
@@ -32,7 +75,21 @@ div.image-decorator {
 	border-radius : 5px 5px 5px 5px;
 	box-shadow : 0 0 6px #c8c8c8;
 	display : inline-block;
+	float : left;
 	height : 360px;
 	padding : 5px 5px 5px 5px;
 	width : 480px;
+}
+
+div.info {
+	float : right;
+	width : 440px;
+}
+
+div.clear {
+	clear : both;
+}
+
+div.spacer {
+	height : 20px;
 }

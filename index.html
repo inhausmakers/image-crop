@@ -1,0 +1,28 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+		<title>jQuery Image Cropping Plug-In</title>
+		<link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+		<link href="resources/js/imageCrop/jquery.imagecrop.css" media="screen" rel="stylesheet" type="text/css" />
+		<script src="resources/js/jquery-1.6.2.min.js" type="text/javascript"></script>
+		<script src="resources/js/imageCrop/jquery.imagecrop.js" type="text/javascript"></script>
+		<script type="text/javascript">
+			$(document).ready(function() {
+				$('img#example').imageCrop({
+					overlayOpacity : 0.25
+				});
+			});
+		</script>
+	</head>
+
+	<body>
+		<div id="wrapper">
+			<h1>jQuery Image Cropping Plug-In</h1>
+
+			<div class="image-decorator">
+				<img alt="jQuery Image Cropping Plug-In" height="360" id="example" src="resources/images/example.jpg" width="480" />
+			</div><!-- .image-decorator -->
+		</div><!-- #wrapper -->
+	</body>
+</html>

@@ -1,0 +1,9 @@
+div#image-crop-overlay {
+	background-color : #ffffff;
+	overflow : hidden;
+}
+
+div#image-crop-outline {
+	background : #ffffff url('outline.gif');
+	overflow : hidden;
+}

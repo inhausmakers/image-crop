@@ -15,8 +15,9 @@ library.
 Get Started
 -----------
 
-Clone the repo, `git clone git://github.com/cdog/image-crop.git`, or [download
-the latest release](https://github.com/cdog/image-crop/zipball/master).
+Clone the repo, `git clone git://github.com/resourcestream/image-crop.git`, or
+[download the latest
+release](https://github.com/resourcestream/image-crop/zipball/master).
 
 
 
@@ -35,11 +36,17 @@ Check out the following resources to find out how Image Crop is built.
 Get Involved
 ------------
 
-Have a bug or a feature request? [Please open a new
-issue](https://github.com/cdog/image-crop/issues). Before opening any issue,
-please search for existing issues and read the [Issue
+**Thank you for choosing to contribute to Image Crop!**
+
+Have a bug or a feature request? Please [open a new
+issue](https://github.com/resourcestream/image-crop/issues). Before opening any
+issue, please search for existing issues and read the [Issue
 Guidelines](https://github.com/necolas/issue-guidelines), written by [Nicolas
-Gallagher](https://github.com/necolas/).
+Gallagher](https://github.com/necolas/). Please submit all pull requests against
+dev branches.
+
+Image Crop is a user-driven project, and all developments and enhancements
+depend on users like **you**!
 
 
 
@@ -48,6 +55,7 @@ Authors
 
 **Cătălin Dogaru**
 
++ http://github.com/resourcestream
 + http://github.com/cdog
 
 
